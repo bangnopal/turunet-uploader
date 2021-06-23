@@ -1,0 +1,14 @@
+{
+  "name": "turunet",
+  "version": "1.0.0",
+  "description": "module for turupedia.net",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Muhammad Naufal Al Fattah",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
