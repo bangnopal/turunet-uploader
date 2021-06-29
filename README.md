@@ -90,5 +90,11 @@ turunet('namafile.jpg')
 }
 ```
 
+## Website
+- https://www.turupedia.com
+- https://www.turupedia.net
+- https://www.rajinulis.my.id
+- https://pb-fanatic.com
+
 ## Contributing
 Mari berkontribusi di repositori ini untuk mengembangkan module ini menjadi lebih baik
